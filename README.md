@@ -44,9 +44,11 @@
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ishaq158&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaq158&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ishaq158&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaq158&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
