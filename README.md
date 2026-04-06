@@ -38,11 +38,14 @@ Engineering Student | AI Enthusiast | Future Developer 🚀
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaq158&show_icons=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaq158&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaq158&layout=compact" />
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaq158&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaq158&theme=github_dark" />
+</p>
 
 ## 🐍 Contribution Snake  
 
