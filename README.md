@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ishaq  
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Student;AI+Enthusiast;Future+Developer;Welcome+to+my+GitHub&center=true&size=25">
+Engineering Student | AI Enthusiast | Future Developer 🚀  
 
 ---
 
@@ -33,6 +33,20 @@
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
+
+---
+
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ishaq158&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaq158&layout=compact" />
+
+---
+
+## 🐍 Contribution Snake  
+
+<img src="https://github.com/Ishaq158/Ishaq158/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
