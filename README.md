@@ -38,9 +38,9 @@ Engineering Student | AI Enthusiast | Future Developer 🚀
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishaq158&show_icons=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaq158&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaq158&layout=compact" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaq158&layout=compact" />
 
 ---
 
