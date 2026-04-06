@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Ishaq  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Student;AI+Enthusiast;Future+Developer+🚀" />
+### 💻 Engineering Student  
+### 🤖 AI Enthusiast  
+### 🚀 Future Developer  
 
 ---
 
@@ -47,6 +49,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaq158&theme=github_dark" />
 </p>
 
+---
+
 ## 🐍 Contribution Snake  
 
 <img src="https://github.com/Ishaq158/Ishaq158/blob/output/github-contribution-grid-snake.svg" />
@@ -59,4 +63,11 @@
 
 ---
 
-⭐ From [Ishaq158](https://github.com/Ishaq158)
+## 📫 Connect With Me  
+
+📧 mohammedishaqk8@gmail.com  
+📍 Mysore, India  
+
+---
+
+⭐ From Ishaq
